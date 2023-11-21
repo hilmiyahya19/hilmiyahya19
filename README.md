@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hilmi Yahya</h1>
 <h3 align="center">beginner programmer, interested in becoming a fullstack web developer</h3>
 
-- 🔭 I’m currently study on **STT Terpadu Nurul Fikri**
+-  I’m currently study on **STT Terpadu Nurul Fikri**
 
-- 🌱 I’m currently learning **programming language**
+-  I’m currently learning **programming language**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
