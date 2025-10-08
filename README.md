@@ -1,18 +1,34 @@
-<h1 align="center">Hi 👋, I'm Hilmi Yahya</h1>
-<h3 align="center">beginner programmer, interested in becoming a fullstack web developer</h3>
+## 💫 About Me:
 
--  I’m currently study on **STT Terpadu Nurul Fikri**
+Hello there 👋<br><br>I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.<br>
+I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript ecosystem**.
+Currently focusing on **React**, **Next.js**, and **Node.js** to craft seamless digital experiences.
 
--  I’m currently learning **programming language**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/hyhlmyhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hyhlmyhy" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hyhlmyhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hyhlmyhy" height="30" width="40" /></a>
-</p>
+## 🌐 Socials:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)](https://portofolio-hilmi-yahya.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hyhlmyhy/)
+[![Instagram](https://img.shields.io/badge/Instagram-%230077B5.svg?style=plastic\&logo=instagram\&logoColor=white)](https://www.instagram.com/hyhlmyhy/)
+
+---
+
+# 💻 Tech Stack:
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic\&logo=javascript\&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic\&logo=react\&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=plastic\&logo=next.js\&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic\&logo=tailwind-css\&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic\&logo=express\&logoColor=%2361DAFB)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic\&logo=mongodb\&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic\&logo=github\&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic\&logo=vercel\&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=plastic\&logo=postman\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=plastic\&logo=visual-studio-code\&logoColor=white)
