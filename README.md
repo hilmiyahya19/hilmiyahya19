@@ -7,7 +7,7 @@
 Hello there 👋  
 I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.  
 I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript ecosystem**.  
-Currently focusing on **React**, **Next.js**, and **Node.js** to craft seamless digital experiences.
+Currently focusing on **PHP** and **Laravel**.
 
 ---
 
@@ -58,13 +58,6 @@ Currently focusing on **React**, **Next.js**, and **Node.js** to craft seamless 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hilmiyahya19&show_icons=true&theme=tokyonight" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hilmiyahya19&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🏆 GitHub Trophies:
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hilmiyahya19&theme=tokyonight&margin-w=8" />
 </p>
 
 ---
