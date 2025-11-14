@@ -7,7 +7,7 @@
 Hello there 👋  
 I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.  
 I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript ecosystem**.  
-Currently focusing on **PHP** and **Laravel**.
+Currently focusing on **Express.js**, and then **NestJS**.
 
 ---
 
@@ -45,6 +45,8 @@ Currently focusing on **PHP** and **Laravel**.
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
