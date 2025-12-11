@@ -75,6 +75,7 @@ Currently focusing on backend development, especially using **Laravel**.
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white" />
 </div>
 
 ---
