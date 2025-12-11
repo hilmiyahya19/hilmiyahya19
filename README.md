@@ -7,7 +7,7 @@
 Hello there 👋  
 I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.  
 I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript ecosystem**.  
-Currently focusing on backend development, especially using **Laravel**.
+Currently focusing on backend development, especially using **Golang**.
 
 ---
 
@@ -36,6 +36,7 @@ Currently focusing on backend development, especially using **Laravel**.
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
 </div>
 
 ---
@@ -59,6 +60,7 @@ Currently focusing on backend development, especially using **Laravel**.
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=plastic&logo=nestjs&logoColor=white" />
   <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white" />
