@@ -6,8 +6,7 @@
 ### 💫 About Me:
 Hello there 👋  
 I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.  
-I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript ecosystem**.  
-Currently focusing on backend development, especially using **Golang**.
+I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript or TypeScript ecosystem**.
 
 ---
 
