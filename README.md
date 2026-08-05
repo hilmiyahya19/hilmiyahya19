@@ -34,8 +34,6 @@ I enjoy building **modern, responsive, and data-driven web applications** using 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
 </div>
 
 ---
@@ -45,9 +43,7 @@ I enjoy building **modern, responsive, and data-driven web applications** using 
 <div>
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white" />
 </div>
 
 ---
@@ -58,12 +54,9 @@ I enjoy building **modern, responsive, and data-driven web applications** using 
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/nestjs-E0234E.svg?style=plastic&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=plastic&logo=Prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=plastic&logo=mongoose&logoColor=white" />
 </div>
 
 ---
@@ -71,12 +64,14 @@ I enjoy building **modern, responsive, and data-driven web applications** using 
 ### 🔧 Tools & Platforms
 
 <div>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/claude-D97757?style=plastic&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/gitlab-330F63.svg?style=plastic&logo=gitlab&logoColor=white" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=plastic&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=plastic&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/docker-2496ED?style=plastic&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" />
 </div>
 
 ---
