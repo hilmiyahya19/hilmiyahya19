@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hilmi Yahya</h1>
-<h3 align="center">Junior Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Developer</h3>
 
 ---
 
 ### 💫 About Me:
 Hello there 👋  
-I'm **Hilmi Yahya**, a junior **Full Stack Web Developer**.  
+I'm **Hilmi Yahya**, a **Full Stack Developer**.  
 I enjoy building **modern, responsive, and data-driven web applications** using technologies around the **JavaScript or TypeScript ecosystem**.
 
 ---
