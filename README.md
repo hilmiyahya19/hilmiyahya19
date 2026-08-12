@@ -12,7 +12,7 @@ I enjoy building **modern, responsive, and data-driven web applications** using 
 
 ### 🌐 Socials:
 <p align="left">
-  <a href="https://portofolio-hilmi-yahya.vercel.app/" target="_blank">
+  <a href="https://portfolio.hilmiyahya.com/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?style=plastic&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/hyhlmyhy/" target="_blank">
